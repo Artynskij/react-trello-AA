@@ -1,6 +1,6 @@
 
 
-function App() {
+export function App() {
   return (
    <span>
      Hello World
@@ -8,4 +8,4 @@ function App() {
   );
 }
 
-export default App;
+// export default App;
