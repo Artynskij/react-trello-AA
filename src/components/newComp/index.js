@@ -1,0 +1,1 @@
+export { NewComp } from "./newComp";
